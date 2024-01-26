@@ -4,4 +4,4 @@ import Footer from "./Footer.jsx";
 import Contact from "./Contact.jsx";
 import About from "./AboutUs.jsx";
 
-export default {Home, Header, Footer, Contact, About};
+export  {Home, Header, Footer, Contact, About};

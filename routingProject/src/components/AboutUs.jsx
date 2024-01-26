@@ -1,3 +1,4 @@
+import { Link, NavLink } from "react-router-dom";
 export default function About() {
   return (
     <div className="py-16 bg-white">
